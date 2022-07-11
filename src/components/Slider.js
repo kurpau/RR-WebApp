@@ -25,7 +25,9 @@ const Slider = (props) => {
             {props.slides.map((slide, idx) => {
                 return (
                     <div key={idx} className={idx === current ? 'slide active' : 'slide'}>
-                        {idx === current && <Card img={slide.src} hints="hello" /> }
+                        {idx === current && <Card img={slide.src} hints="hello">
+                            <div></div>
+                        </Card> }
                     </div>
                 );
             })}

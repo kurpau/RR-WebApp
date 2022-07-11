@@ -1,8 +1,8 @@
 .slider {
     position: relative;
-    height: 100vh;
+    height: 50vh;
     display: flex;
-    justify-content: cneter;
+    justify-content: center;
     align-items: center;
 }
 
