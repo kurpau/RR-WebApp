@@ -1,12 +1,16 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Card = (props) => {
+    console.log(props.path.img)
     return (
         <div >
-            <img className="image" src={props.img} alt={props.alt} width="200" height="200"></img>
-            {props.children}
+            <h2>{props.title}</h2>
+            <img className="image" 
+                src={props['path']} 
+                alt={props.alt} 
+            />
             <ul>
-                <li>{props.hints}</li>
+                {props.keypoints}
             </ul>
         </div>
     );

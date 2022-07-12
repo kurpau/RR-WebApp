@@ -2,11 +2,13 @@ import React, { useState } from "react";
 import Card from "./Card";
 import { FaArrowAltCircleRight, FaArrowAltCircleLeft } from 'react-icons/fa'
 
-const Slider = (props) => {
+const Slider = ({ slides }) => {
     const [current, setCurrent] = useState(0);
-    const length = props.slides.length;
+    const length = slides.length;
+    
+    
 
-    if (!Array.isArray(props.slides) || props.slides.length <= 0) {
+    if (!Array.isArray(slides) || slides.length <= 0) {
         return null;
     }
 
@@ -22,12 +24,20 @@ const Slider = (props) => {
         <section className="slider">
             <FaArrowAltCircleLeft className="left-arrow" onClick={prevSlideHandler} />
             <FaArrowAltCircleRight className="right-arrow" onClick={nextSlideHandler} />
-            {props.slides.map((slide, idx) => {
+            {slides.map((slide, idx) => {
                 return (
                     <div key={idx} className={idx === current ? 'slide active' : 'slide'}>
-                        {idx === current && <Card img={slide.src} hints="hello">
-                            <div></div>
-                        </Card> }
+                        {idx === current && 
+                        <div>
+                            <Card path={slide.img}
+                                        alt={slide.alt}
+                                        keypoints={slide.keypoints.map((point, idx) => {
+                                            return <li key={idx}>{point}</li>
+                                        })}
+                                        title={slide.title}>
+                            </Card>
+                        </div>
+                        }
                     </div>
                 );
             })}
