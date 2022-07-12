@@ -1,4 +1,4 @@
-import supportHold from "./assets/RR/dips/parallel-bar-support-hold.gif"
+import supportHold from "./assets/RR/dips/parallel-bar-support-hold.jpg"
 import negativeDip from "./assets/RR/dips/negative-dip.gif"
 import regularDip from "./assets/RR/dips/regular-dip.gif"
 
@@ -7,10 +7,10 @@ import plank from "./assets/RR/extensions/plank.jpg"
 import revHyperextension from "./assets/RR/extensions/reverse-hyperextension.gif"
 import ringsRollout from "./assets/RR/extensions/rings-rollout.gif"
 
-import romanianDeadlift from "./assets/RR/hinges/Romanian-Deadlift.gif";
-import singleLegDeadlift from "./assets/RR/hinges/Single-Legged-Deadlift.gif";
-import bandedNordicCurl from "./assets/RR/hinges/Banded-Nordic-Curl.gif";
-import nordicCurl from "./assets/RR/hinges/Nordic-curl.gif";
+import romanianDeadlift from "./assets/RR/hinges/romanian-deadlift.gif";
+import singleLegDeadlift from "./assets/RR/hinges/single-legged-deadlift.gif";
+import bandedNordicCurl from "./assets/RR/hinges/banded-nordic-curl.gif";
+import nordicCurl from "./assets/RR/hinges/nordic-curl.gif";
 
 import archHang from "./assets/RR/pullups/arch-hang.gif"
 import negativePullup from "./assets/RR/pullups/negative-pullup.gif"
