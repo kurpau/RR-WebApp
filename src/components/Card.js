@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 const Card = (props) => {
-    console.log(props.path.img)
     return (
         <div >
             <h2>{props.title}</h2>
