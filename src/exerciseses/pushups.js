@@ -1,0 +1,5 @@
+import diamondPushup from "./assets/RR/pushups/diamond-pushup.gif"
+import fullPushup from "./assets/RR/pushups/full-pushup.gif"
+import inclinePushup from "./assets/RR/pushups/incline-pushup.gif"
+import pseudoPushup from "./assets/RR/pushups/pseudo-planche-pushup.gif"
+import wallPushup from "./assets/RR/pushups/wall-pushup.gif"

@@ -1,29 +1,14 @@
-export const dips = [
+import supportHold from "./assets/RR/dips/parallel-bar-support-hold.jpg"
+import negativeDip from "./assets/RR/dips/negative-dip.gif"
+import regularDip from "./assets/RR/dips/regular-dip.gif"
+
+const dips = [
     {
-        path: "dips/Parallel-Bar-Support-Hold.jpg",
-        title: "Parallel bar support hold",
-        alt: "Parallel bar support hold",
-        keypoints: [
-            "Hold tight",
-            "Have a clear head"
-        ]
-    },
-    {
-        path: "dips/Negative-dips.gif",
-        title: "Negative dips",
-        alt: "Negative dips",
-        keypoints: [
-            "Be strong",
-            "Ok, be strong",
-            "Still be strong"
-        ]
-    },
-    {
-        path: "dips/Dips.gif",
-        title: "Regular dips",
-        alt: "Regular dips",
-        keypoints: [
-            "Be very strong"
-        ]
-    },
-];
+    img: supportHold,
+    alt: "Romanian deadlift",
+    title: "Romanian deadlift",
+    keypoints: [
+        "Yo, this is easy",
+    ]
+},
+]
