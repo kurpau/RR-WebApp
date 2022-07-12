@@ -1,1 +1,0 @@
-import hinges from "./hinges";

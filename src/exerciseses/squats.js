@@ -1,7 +1,0 @@
-import advShrimpSquat from "./assets/RR/squats/advanced-shrimp-squat.gif"
-import assShrimpSquat from "./assets/RR/squats/assisted-squat.gif"
-import begShrimpSquat from "./assets/RR/squats/beginner-shrimp-squat.gif"
-import bulgSplitSquat from "./assets/RR/squats/bulgarian-split-squat.gif"
-import fullSquat from "./assets/RR/squats/full-squat.gif"
-import intShrimpSquat from "./assets/RR/squats/intermediate-shrimp-squat.gif"
-import splitSquat from "./assets/RR/squats/split-squat.gif"

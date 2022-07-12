@@ -1,7 +1,7 @@
-import romanianDeadlift from "./assets/RR/hinges/romanian-deadlift.gif";
-import singleLegDeadlift from "./assets/RR/hinges/single-legged-deadlift.gif";
-import bandedNordicCurl from "./assets/RR/hinges/banded-nordic-curl.gif";
-import nordicCurl from "./assets/RR/hinges/nordic-curl.gif";
+import romanianDeadlift from "../assets/RR/hinges/romanian-deadlift.gif";
+import singleLegDeadlift from "../assets/RR/hinges/single-legged-deadlift.gif";
+import bandedNordicCurl from "../assets/RR/hinges/banded-nordic-curl.gif";
+import nordicCurl from "../assets/RR/hinges/nordic-curl.gif";
 
 
 const hinges = [
