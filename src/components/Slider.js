@@ -1,13 +1,10 @@
 import React, { useState } from "react";
 import Card from "./Card";
-import { FaArrowAltCircleRight, FaArrowAltCircleLeft } from 'react-icons/fa'
 
 const Slider = ({ slides }) => {
     const [current, setCurrent] = useState(0);
     const length = slides.length;
     
-    
-
     if (!Array.isArray(slides) || slides.length <= 0) {
         return null;
     }
@@ -21,9 +18,7 @@ const Slider = ({ slides }) => {
     }
 
     return (
-        <section className="slider">
-            <FaArrowAltCircleLeft className="left-arrow" onClick={prevSlideHandler} />
-            <FaArrowAltCircleRight className="right-arrow" onClick={nextSlideHandler} />
+        <div className="slider">
             {slides.map((slide, idx) => {
                 return (
                     <div key={idx} className={idx === current ? 'slide active' : 'slide'}>
@@ -35,13 +30,15 @@ const Slider = ({ slides }) => {
                                             return <li key={idx}>{point}</li>
                                         })}
                                         title={slide.title}>
+                            <button onClick={prevSlideHandler} className="left-arrow"></button>
+                            <button onClick={nextSlideHandler} className="right-arrow"></button>
                             </Card>
                         </div>
                         }
                     </div>
                 );
             })}
-        </section>
+        </div>
     );
 };
 

@@ -1,13 +1,16 @@
-import React, { useState } from "react";
+import React, { Fragment } from "react";
 
 const Card = (props) => {
     return (
-        <div >
+        <div className="card">
             <h2>{props.title}</h2>
-            <img className="image" 
-                src={props['path']} 
-                alt={props.alt} 
-            />
+            <div className="container">
+                {props.children}
+                <img className="image" 
+                    src={props['path']} 
+                    alt={props.alt} 
+                />
+            </div>
             <ul>
                 {props.keypoints}
             </ul>

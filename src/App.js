@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import { Fragment } from 'react';
 import Slider from './components/Slider';
