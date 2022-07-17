@@ -12,7 +12,7 @@ const squats = [
         alt: "Assisted squat",
         title: "Assisted squat",
         keypoints: [
-            "",
+            'Grab something in front of you and use your hands to assist in the squat. Reduce assistance over time.',
         ]
     },
     {
@@ -20,7 +20,11 @@ const squats = [
         alt: "Full squat",
         title: "Full squat",
         keypoints: [
-            "",
+            'Stand up straight at the top',
+            'Go as low as you can, preferably until the hips are below the knees',
+            'Dig your big toe and heel into the ground',
+            'Keep your knee in-line with your toes',
+            'Don\'t let the knees come inward on either the descend or the ascend; think about pushing the knees out',
         ]
     },
     {
@@ -28,7 +32,7 @@ const squats = [
         alt: "Split squat",
         title: "Split squat",
         keypoints: [
-            "",
+            'Remain in the split stance throughout the set. Unlike a lunge, you don\'t return to a "feet together" stance.'
         ]
     },
     {
@@ -36,7 +40,7 @@ const squats = [
         alt: "Bulgarian split squat",
         title: "Bulgarian split squat",
         keypoints: [
-            "",
+            'You can progress this further by elevating both your legs',
         ]
     },
     {
@@ -44,7 +48,7 @@ const squats = [
         alt: "Beginner shrimp squat",
         title: "Beginner shrimp squat",
         keypoints: [
-            "",
+            'Make sure your knee and toes leave the floor at the same time',
         ]
     },
     {
@@ -52,7 +56,7 @@ const squats = [
         alt: "Intermediate shrimp squat",
         title: "Intermediate shrimp squat",
         keypoints: [
-            "",
+            'In this variation, the knee touches the ground but the toes do not.',
         ]
     },
     {
@@ -60,7 +64,7 @@ const squats = [
         alt: "Advanced shrimp squat",
         title: "Advanced shrimp squat",
         keypoints: [
-            "",
+            'In this variation, you hold your heel as you descend. only the knee touches the floor.',
         ]
     },
 ]
