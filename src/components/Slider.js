@@ -23,17 +23,16 @@ const Slider = ({ slides }) => {
                 return (
                     <div key={idx} className={idx === current ? 'slide active' : 'slide'}>
                         {idx === current && 
-                        <div>
                             <Card path={slide.img}
+                                        progression={`Progression ${idx+1}/${length}`}
                                         alt={slide.alt}
                                         keypoints={slide.keypoints.map((point, idx) => {
                                             return <li key={idx}>{point}</li>
                                         })}
                                         title={slide.title}>
-                            <button onClick={prevSlideHandler} className="left-arrow"></button>
-                            <button onClick={nextSlideHandler} className="right-arrow"></button>
+                                <button onClick={prevSlideHandler} className="left-arrow"></button>
+                                <button onClick={nextSlideHandler} className="right-arrow"></button>
                             </Card>
-                        </div>
                         }
                     </div>
                 );

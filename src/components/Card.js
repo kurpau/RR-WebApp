@@ -2,19 +2,17 @@ import React, { Fragment } from "react";
 
 const Card = (props) => {
     return (
-        <div className="card">
+        <Fragment>
             <h2>{props.title}</h2>
             <div className="container">
                 {props.children}
-                <img className="image" 
-                    src={props['path']} 
-                    alt={props.alt} 
-                />
+                <img src={props['path']} alt={props.alt} />
             </div>
+                <p>{props.progression}</p>
             <ul>
                 {props.keypoints}
             </ul>
-        </div>
+        </Fragment>
     );
 };
 
