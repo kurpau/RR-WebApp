@@ -4,6 +4,10 @@ This project is still in development
 
 You can test this code on your local machine. Create a new directory, clone this repo and run: 
 
+### 'npm install' ###
+
+Installs required modules for this project
+
 ### `npm start` ###
 
 Runs the app in the development mode.\
