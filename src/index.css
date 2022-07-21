@@ -4,7 +4,8 @@ body {
   font-family: 'Roboto';
   background-color: #030303;
   color: #dbdbdb;
-  font-size: 22px;
+  /* font-size: 2.2vh; */
+  font-size: 14pt;
 }
 
 
