@@ -4,9 +4,11 @@ This project is still in development
 
 You can test this code on your local machine. Create a new directory, clone this repo and run: 
 
-### 'npm install' ###
+### `npm install` ###
 
-Installs required modules for this project
+Installs required modules for this project.
+
+Then:
 
 ### `npm start` ###
 
