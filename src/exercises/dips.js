@@ -8,6 +8,9 @@ const dips = [
         alt: "Parallel bar support hold",
         title: "Parallel bar support hold",
         keypoints: [
+            'Press the shoulders down',
+            'Elbow pits face forward',
+            'Feet and thighs together',
             'Work up to 3 sets of 1 minute holds for this progression',
             'If you can\'t hold yourself up at all, consider using bands or your feet to assist you until you gain the necessary strength.',
         ]
