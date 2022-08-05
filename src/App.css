@@ -4,14 +4,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 28rem;
-    padding: 0 1rem 1rem 1rem;
+    width: 24rem;
+    padding: 0 2rem 1rem 2rem;
     background-color: #272729;
     border-radius: 10px;
 }
 
 .slider {
-    width: 22rem;
+    width: 20rem;
     background-color: #1a1a1b;
     border-radius: 10px;
     padding: 0 2rem 2em 2rem;

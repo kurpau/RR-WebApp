@@ -3,7 +3,7 @@ import './App.css';
 import { Fragment } from 'react';
 import Slider from './components/Slider';
 import Section from './components/Section';
-import { pullups, squats, dips, hinges, rows, pushups } from './exercises';
+import { antiExtensions, antiRotations, extensions, pullups, squats, dips, hinges, rows, pushups } from './exercises';
 
 function App() {
   return (
@@ -19,6 +19,11 @@ function App() {
       <Section title="Third pair">
         <Slider slides={rows} />
         <Slider slides={pushups} />
+      </Section>
+      <Section title="Core triplet">
+        <Slider slides={antiExtensions} />
+        <Slider slides={antiRotations} />
+        <Slider slides={extensions} />
       </Section>
     </Fragment>
   );
