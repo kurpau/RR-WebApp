@@ -8,7 +8,10 @@ const Card = (props) => {
                 {props.children}
                 <img src={props['path']} alt={props.alt} />
             </div>
+            <div className="meta">
                 <p>{props.progression}</p>
+                <p>Do {props.snr}</p>
+            </div>
             <ul>
                 {props.keypoints}
             </ul>

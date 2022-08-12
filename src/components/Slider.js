@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Card from "./Card";
 
-const Slider = ({ slides }) => {
+const Slider = ({ slides, snr }) => {
     const [current, setCurrent] = useState(0);
     const length = slides.length;
     
@@ -26,6 +26,7 @@ const Slider = ({ slides }) => {
                             <Card path={slide.img}
                                         progression={`Progression ${idx+1}/${length}`}
                                         alt={slide.alt}
+                                        snr={snr}
                                         keypoints={slide.keypoints.map((point, idx) => {
                                             return <li key={idx}>{point}</li>
                                         })}
