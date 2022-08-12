@@ -108,11 +108,13 @@ h1, h2, h3 {
 a:link {
     opacity: 0.5;
     color: #dbdbdb;
+    text-decoration: none;
 }
 
 a:visited {
     opacity: 0.5;
     color: #dbdbdb;
+    text-decoration: none;
 }
 
 a:hover {
