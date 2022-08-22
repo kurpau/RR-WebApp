@@ -12,7 +12,7 @@ const Card = (props) => {
                 <p>{props.progression}</p>
                 <p>Do {props.snr}</p>
             </div>
-            <ul>
+            <ul id="hints">
                 {props.keypoints}
             </ul>
         </Fragment>
