@@ -1,4 +1,4 @@
-import plank from "../assets/RR/anti-extensions/plank.jpg"
+import plank from "../assets/RR/anti-extensions/plank.png"
 import ringsRollout from "../assets/RR/anti-extensions/rings-rollout.gif"
 
 

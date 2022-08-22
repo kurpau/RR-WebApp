@@ -1,9 +1,6 @@
-import React, { useState } from "react";
-import Instructions from "./Instructions";
+import React from "react";
 
 const Welcome = (props) => {
-    
-
     return (
         <div className="welcome">
             <h1>Welcome to <a href="https://www.reddit.com/r/bodyweightfitness/">r/bodyweightfitness</a> <br />
