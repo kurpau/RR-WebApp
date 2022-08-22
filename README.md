@@ -1,4 +1,4 @@
-# r/bodyweightfitness recommended routine web viewer
+# r/bodyweightfitness recommended routine Web App
 
 This project is still in development
 
