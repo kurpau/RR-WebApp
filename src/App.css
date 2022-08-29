@@ -1,5 +1,6 @@
 .section {
-    margin: 2rem auto;
+    border: 2px solid #2b2b2b;
+    margin: 1.5rem auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -72,11 +73,11 @@
     margin: 0;
 }
 
-
 .welcome {
+    border: 2px solid #2b2b2b;
     margin: 2rem auto;
     text-align: center;
-    padding: 0.25rem 1rem 1rem 1rem;
+    padding: 0.5rem 1rem 1rem 1rem;
     font-size: 1.4rem;
     width: 26rem;
     border-radius: 10px;
@@ -116,6 +117,7 @@ h1, h2, h3 {
 }
 
 button {
+    margin-bottom: 1rem;
     border-radius: 20px;
     background-color: #d7dadc;
     border: none;
