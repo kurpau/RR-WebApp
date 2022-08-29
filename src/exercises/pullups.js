@@ -1,7 +1,7 @@
-import scapularPull from "../assets/RR/pullups/scapular-pull.webm"
-import archHang from "../assets/RR/pullups/arch-hang.webm"
-import negativePullup from "../assets/RR/pullups/negative-pullup.webm"
-import perfectPullup from "../assets/RR/pullups/perfect-pullup.webm"
+import scapularPull from "../assets/RR/pullups/scapular-pull.gif"
+import archHang from "../assets/RR/pullups/arch-hang.gif"
+import negativePullup from "../assets/RR/pullups/negative-pullup.gif"
+import perfectPullup from "../assets/RR/pullups/perfect-pullup.gif"
 
 const pullups = [
     {
