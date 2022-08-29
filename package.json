@@ -16,7 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "gzip build/static/js/*.js && gzip build/static/css/*.css && gzip build/static/media/*.gif",
+    "postbuild": "find /build/static -type f \\( -name \\*.js -o -name \\*.gif \\) -exec gzip {} \\; -exec mv {}.gz {} \\;",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
