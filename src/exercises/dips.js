@@ -1,5 +1,5 @@
 import React from "react";
-import supportHold from "../assets/RR/dips/parallel-bar-support-hold.jpg"
+import supportHold from "../assets/RR/dips/parallel-bar-support-hold.webm"
 import negativeDip from "../assets/RR/dips/negative-dip.webm"
 import regularDip from "../assets/RR/dips/regular-dip.webm"
 

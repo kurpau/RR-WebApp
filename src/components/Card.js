@@ -6,8 +6,8 @@ const Card = (props) => {
             <h2>{props.title}</h2>
             <div className="container">
                 {props.children}
-                <video autoPlay loop>
-                    <source src={props['path']} />
+                <video autoPlay loop muted playsinline>
+                    <source src={props['path']} type="video/webm" poster=""/>
                 </video>
             </div>
             <div className="meta">
