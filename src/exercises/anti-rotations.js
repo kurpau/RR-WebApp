@@ -6,7 +6,7 @@ const antiRotations = [
         alt: "Banded pallof press",
         title: "Banded pallof press",
         keypoints: [
-            "These are performed under control with a short pause when your arms are fully extended",
+            <p>These are performed under control with a short pause when your arms are fully extended</p>,
         ]
     },
 ]

@@ -10,7 +10,7 @@ const pushups = [
         alt: "Wall pushup",
         title: "Wall pushup",
         keypoints: [
-            'Standing next to a wall, put your hands on the wall and perform a pushup.',
+            <p>Standing next to a wall, put your hands on the wall and perform a pushup.</p>,
         ]
     },
     {
@@ -18,7 +18,7 @@ const pushups = [
         alt: "Incline pushup",
         title: "Incline pushup",
         keypoints: [
-            'Finding some raised object, put your hands on said object and perform a pushup. Lower the height to increase the difficulty.'
+            <p>Finding some raised object, put your hands on said object and perform a pushup. Lower the height to increase the difficulty.</p>
         ]
     },
     {
@@ -26,11 +26,11 @@ const pushups = [
         alt: "Full pushup",
         title: "Full pushup",
         keypoints: [
-            'Body in a straight line from head to toe: don\'t let the hips sag!',
-            'Lock out arms and protract the shoulderblades (what does that even mean?) at the top',
-            'Go down until chest nearly touches the ground',
-            'Keep the elbows in, don\'t let them flare out',
-            'Don\'t shrug up your shoulders to your ears, focus on depressing the shoulderblades (what does that even mean?).',
+            <p>Body in a straight line from head to toe: don\'t let the hips sag!</p>,
+            <p>Lock out arms and <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">protract the shoulderblades</a> at the top</p>,
+            <p>Go down until chest nearly touches the ground</p>,
+            <p>Keep the elbows in, don\'t let them flare out</p>,
+            <p>Don\'t shrug up your shoulders to your ears, focus on <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">depressing the shoulderblades</a>.</p>,
         ]
     },
     {
@@ -38,8 +38,8 @@ const pushups = [
         alt: "Diamond pushup",
         title: "Diamond pushup",
         keypoints: [
-            'Put your hands close together so the thumbs and index fingers touch, then perform a pushup.',
-            'If this is too difficult or feels uncomfortable, put your hands just a bit closer than in a normal pushup. Work on moving the hands closer together over time until you reach diamond pushups.',
+            <p>Put your hands close together so the thumbs and index fingers touch, then perform a pushup.</p>,
+            <p>If this is too difficult or feels uncomfortable, put your hands just a bit closer than in a normal pushup. Work on moving the hands closer together over time until you reach diamond pushups.</p>,
         ]
     },
     {
@@ -47,8 +47,8 @@ const pushups = [
         alt: "Pseudo planche pushup",
         title: "Pseudo planche pushup",
         keypoints: [
-            'Putting your hands sideways, lean forward with a straight body until your shoulders are in front of your hands. Perform a pushup while maintaining forward lean. Protract the shoulderblades at the top.',
-            'Increase forward lean to make more difficult. Decrease forward lean to make easier. You won\'t run out of resistance anytime soon if you keep increasing your forward lean.',
+            <p>Putting your hands sideways, lean forward with a straight body until your shoulders are in front of your hands. Perform a pushup while maintaining forward lean. Protract the shoulderblades at the top.</p>,
+            <p>Increase forward lean to make more difficult. Decrease forward lean to make easier. You won\'t run out of resistance anytime soon if you keep increasing your forward lean.</p>,
         ]
     },
 ]

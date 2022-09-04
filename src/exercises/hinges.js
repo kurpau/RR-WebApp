@@ -10,10 +10,10 @@ const hinges = [
         alt: "Romanian deadlift",
         title: "Romanian deadlift",
         keypoints: [
-            'Stand up straight. Brace and squeeze your butt to flatten your low back (neutral spine to maybe slightly arched).',
-            'Send your butt back and lean your torso forward to avoid falling over',
-            'You can place the hands on your chest and abdomen for feedback or let them hang by your sides.',
-            'Note: The GIF is "robotic" for demonstration purposed, your execution should be smooth.',
+            <p>Stand up straight. Brace and squeeze your butt to flatten your low back (neutral spine to maybe slightly arched).</p>,
+            <p>Send your butt back and lean your torso forward to avoid falling over</p>,
+            <p>You can place the hands on your chest and abdomen for feedback or let them hang by your sides.</p>,
+            <p>Note: The GIF is "robotic" for demonstration purposed, your execution should be smooth.</p>,
         ]
     },
     {
@@ -21,7 +21,7 @@ const hinges = [
         alt: "Single legged deadlift",
         title: "Single legged deadlift",
         keypoints: [
-            'If you lack the balance to perform these with a leg in the air, you can use an arm to brace yourself against a surface or you can straddle your legs to help with balance. Example',
+            <p>If you lack the balance to perform these with a leg in the air, you can use an arm to brace yourself against a surface or you can straddle your legs to help with balance. <a href="https://i.imgur.com/VUF6VLa.jpg">Example</a></p>,
                 ]
             },
     {
@@ -29,9 +29,9 @@ const hinges = [
         alt: "Banded nordic curl",
         title: "Banded nordic curl",
         keypoints: [
-            'Anchor your feet under something sturdy. You want to be anchored about a fist\'s distance away from your ankle.',
-            'Squeeze your butt to keep your hips extended',
-            'Slowly lower your torso, avoiding piking at the hips',
+            <p>Anchor your feet under something sturdy. You want to be anchored about a fist\'s distance away from your ankle.</p>,
+            <p>Squeeze your butt to keep your hips extended</p>,
+            <p>Slowly lower your torso, avoiding piking at the hips</p>,
         ]
     },
     {
@@ -39,9 +39,9 @@ const hinges = [
         alt: "Nordic curl",
         title: "Nordic curl",
         keypoints: [
-            'Anchor your feet under something sturdy. You want to be anchored about a fist\'s distance away from your ankle.',
-            'Squeeze your butt to keep your hips extended',
-            'Slowly lower your torso, avoiding piking at the hips',
+            <p>Anchor your feet under something sturdy. You want to be anchored about a fist\'s distance away from your ankle.</p>,
+            <p>Squeeze your butt to keep your hips extended</p>,
+            <p>Slowly lower your torso, avoiding piking at the hips</p>,
         ]
     },
 ];

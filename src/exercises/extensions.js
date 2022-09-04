@@ -7,7 +7,7 @@ const extensions = [
         alt: "Reverse hyperextension",
         title: "Reverse hyperextension",
         keypoints: [
-            "Keep your butt tucked",
+            <p>Keep your butt tucked</p>,
         ]
     },
 ]

@@ -8,7 +8,7 @@ const antiExtensions = [
         alt: "Plank",
         title: "Plank",
         keypoints: [
-            "Work up to a 30s hold then move on to your ring rollouts",
+            <p>Work up to a 30s hold then move on to your ring rollouts</p>,
         ]
     },
     {
@@ -16,10 +16,10 @@ const antiExtensions = [
         alt: "Rings rollout",
         title: "Rings rollout",
         keypoints: [
-            "Elbows should stay straight",
-            "Remain in a hollow body position (ribs down, butt tucked)",
-            "Keep your hands as close as your overhead mobility will allow.",
-            "Higher ring position will make this easier. Elevating the feet will make it harder.",
+            <p>Elbows should stay straight</p>,
+            <p>Remain in a hollow body position (ribs down, butt tucked)</p>,
+            <p>Keep your hands as close as your overhead mobility will allow.</p>,
+            <p>Higher ring position will make this easier. Elevating the feet will make it harder.</p>,
         ]
     },
 ]
