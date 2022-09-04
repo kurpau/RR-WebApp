@@ -1,3 +1,4 @@
+import React from "react";
 import supportHold from "../assets/RR/dips/parallel-bar-support-hold.jpg"
 import negativeDip from "../assets/RR/dips/negative-dip.gif"
 import regularDip from "../assets/RR/dips/regular-dip.gif"
@@ -12,7 +13,7 @@ const dips = [
             <p>Elbow pits face forward</p>,
             <p>Feet and thighs together</p>,
             <p>Work up to 3 sets of 1 minute holds for this progression</p>,
-            <p>If you can\'t hold yourself up at all, consider using bands or your feet to assist you until you gain the necessary strength.</p>,
+            <p>If you can't hold yourself up at all, consider using bands or your feet to assist you until you gain the necessary strength.</p>,
         ]
     },
     {

@@ -1,3 +1,4 @@
+import React from "react";
 import revHyperextension from "../assets/RR/extensions/reverse-hyperextension.gif"
 
 

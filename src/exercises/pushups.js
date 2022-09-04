@@ -1,3 +1,4 @@
+import React from "react";
 import wallPushup from "../assets/RR/pushups/wall-pushup.gif"
 import inclinePushup from "../assets/RR/pushups/incline-pushup.gif"
 import fullPushup from "../assets/RR/pushups/full-pushup.gif"
@@ -26,11 +27,11 @@ const pushups = [
         alt: "Full pushup",
         title: "Full pushup",
         keypoints: [
-            <p>Body in a straight line from head to toe: don\'t let the hips sag!</p>,
+            <p>Body in a straight line from head to toe: don't let the hips sag!</p>,
             <p>Lock out arms and <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">protract the shoulderblades</a> at the top</p>,
             <p>Go down until chest nearly touches the ground</p>,
-            <p>Keep the elbows in, don\'t let them flare out</p>,
-            <p>Don\'t shrug up your shoulders to your ears, focus on <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">depressing the shoulderblades</a>.</p>,
+            <p>Keep the elbows in, don't let them flare out</p>,
+            <p>Don't shrug up your shoulders to your ears, focus on <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">depressing the shoulderblades</a>.</p>,
         ]
     },
     {
@@ -48,7 +49,7 @@ const pushups = [
         title: "Pseudo planche pushup",
         keypoints: [
             <p>Putting your hands sideways, lean forward with a straight body until your shoulders are in front of your hands. Perform a pushup while maintaining forward lean. Protract the shoulderblades at the top.</p>,
-            <p>Increase forward lean to make more difficult. Decrease forward lean to make easier. You won\'t run out of resistance anytime soon if you keep increasing your forward lean.</p>,
+            <p>Increase forward lean to make more difficult. Decrease forward lean to make easier. You won't run out of resistance anytime soon if you keep increasing your forward lean.</p>,
         ]
     },
 ]

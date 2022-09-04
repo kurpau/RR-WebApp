@@ -1,3 +1,4 @@
+import React from "react";
 import romanianDeadlift from "../assets/RR/hinges/romanian-deadlift.gif";
 import singleLegDeadlift from "../assets/RR/hinges/single-legged-deadlift.gif";
 import bandedNordicCurl from "../assets/RR/hinges/banded-nordic-curl.gif";
@@ -29,7 +30,7 @@ const hinges = [
         alt: "Banded nordic curl",
         title: "Banded nordic curl",
         keypoints: [
-            <p>Anchor your feet under something sturdy. You want to be anchored about a fist\'s distance away from your ankle.</p>,
+            <p>Anchor your feet under something sturdy. You want to be anchored about a fist's distance away from your ankle.</p>,
             <p>Squeeze your butt to keep your hips extended</p>,
             <p>Slowly lower your torso, avoiding piking at the hips</p>,
         ]
@@ -39,7 +40,7 @@ const hinges = [
         alt: "Nordic curl",
         title: "Nordic curl",
         keypoints: [
-            <p>Anchor your feet under something sturdy. You want to be anchored about a fist\'s distance away from your ankle.</p>,
+            <p>Anchor your feet under something sturdy. You want to be anchored about a fist's distance away from your ankle.</p>,
             <p>Squeeze your butt to keep your hips extended</p>,
             <p>Slowly lower your torso, avoiding piking at the hips</p>,
         ]

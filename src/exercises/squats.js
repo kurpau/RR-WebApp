@@ -1,3 +1,4 @@
+import React from "react";
 import assShrimpSquat from "../assets/RR/squats/assisted-squat.gif"
 import fullSquat from "../assets/RR/squats/full-squat.gif"
 import splitSquat from "../assets/RR/squats/split-squat.gif"

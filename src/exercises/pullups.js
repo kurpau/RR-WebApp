@@ -1,3 +1,4 @@
+import React from "react";
 import scapularPull from "../assets/RR/pullups/scapular-pull.gif"
 import archHang from "../assets/RR/pullups/arch-hang.gif"
 import negativePullup from "../assets/RR/pullups/negative-pullup.gif"
@@ -38,12 +39,12 @@ const pullups = [
         alt: "Pullup",
         title: "Pullup",
         keypoints: [
-            <p>Body slightly <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">hollow</a> with straight legs throughout the whole exercise. Don\'t cross your legs.</p>,
-            <p>If you cannot get straight legs, it\'s preferable to keep the feet in front of the body rather than behind.</p>,
-            <p>Arms straight at the bottom. Don\'t think about anything else, just straight arms. The rest will happen automatically.</p>,
+            <p>Body slightly <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">hollow</a> with straight legs throughout the whole exercise. Don't cross your legs.</p>,
+            <p>If you cannot get straight legs, it's preferable to keep the feet in front of the body rather than behind.</p>,
+            <p>Arms straight at the bottom. Don't think about anything else, just straight arms. The rest will happen automatically.</p>,
             <p>Strive for chest to bar at the top. For this the forearms have to deviate from vertical, which may be a bit hard on the elbows, so build up to it slowly.</p>,
             <p>Keep the neck in a neutral position: avoid craning it to get your chin over the bar</p>,
-            <p>It\'s natural for your legs to come forward: this keeps your centre of mass under the bar. Just make sure you\'re not violently swinging them upwards.</p>,
+            <p>It's natural for your legs to come forward: this keeps your centre of mass under the bar. Just make sure you're not violently swinging them upwards.</p>,
         ]
     },
 ] 
