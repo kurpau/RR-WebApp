@@ -1,6 +1,6 @@
 import React from "react";
 import plank from "../assets/RR/anti-extensions/plank.png"
-import ringsRollout from "../assets/RR/anti-extensions/rings-rollout.gif"
+import ringsRollout from "../assets/RR/anti-extensions/rings-rollout.webm"
 
 
 const antiExtensions = [

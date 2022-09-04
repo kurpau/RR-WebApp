@@ -1,11 +1,11 @@
 import React from "react";
-import assShrimpSquat from "../assets/RR/squats/assisted-squat.gif"
-import fullSquat from "../assets/RR/squats/full-squat.gif"
-import splitSquat from "../assets/RR/squats/split-squat.gif"
-import bulgSplitSquat from "../assets/RR/squats/bulgarian-split-squat.gif"
-import begShrimpSquat from "../assets/RR/squats/beginner-shrimp-squat.gif"
-import intShrimpSquat from "../assets/RR/squats/intermediate-shrimp-squat.gif"
-import advShrimpSquat from "../assets/RR/squats/advanced-shrimp-squat.gif"
+import assShrimpSquat from "../assets/RR/squats/assisted-squat.webm"
+import fullSquat from "../assets/RR/squats/full-squat.webm"
+import splitSquat from "../assets/RR/squats/split-squat.webm"
+import bulgSplitSquat from "../assets/RR/squats/bulgarian-split-squat.webm"
+import begShrimpSquat from "../assets/RR/squats/beginner-shrimp-squat.webm"
+import intShrimpSquat from "../assets/RR/squats/intermediate-shrimp-squat.webm"
+import advShrimpSquat from "../assets/RR/squats/advanced-shrimp-squat.webm"
 
 const squats = [
     {

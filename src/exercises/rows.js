@@ -1,7 +1,7 @@
 import React from "react";
-import inclineRow from "../assets/RR/rows/incline-row.gif"
-import horizontalRow from "../assets/RR/rows/horizontal-row.gif"
-import wideRow from "../assets/RR/rows/wide-row.gif"
+import inclineRow from "../assets/RR/rows/incline-row.webm"
+import horizontalRow from "../assets/RR/rows/horizontal-row.webm"
+import wideRow from "../assets/RR/rows/wide-row.webm"
 
 const rows = [
     {

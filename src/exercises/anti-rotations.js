@@ -1,5 +1,5 @@
 import React from "react";
-import pallofPress from "../assets/RR/anti-rotations/banded-pallof-press.gif"
+import pallofPress from "../assets/RR/anti-rotations/banded-pallof-press.webm"
 
 const antiRotations = [
     {

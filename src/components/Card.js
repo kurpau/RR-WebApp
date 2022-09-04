@@ -6,7 +6,9 @@ const Card = (props) => {
             <h2>{props.title}</h2>
             <div className="container">
                 {props.children}
-                <img src={props['path']} alt={props.alt} />
+                <video autoPlay loop>
+                    <source src={props['path']} />
+                </video>
             </div>
             <div className="meta">
                 <p>{props.progression}</p>

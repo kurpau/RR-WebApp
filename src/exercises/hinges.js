@@ -1,8 +1,8 @@
 import React from "react";
-import romanianDeadlift from "../assets/RR/hinges/romanian-deadlift.gif";
-import singleLegDeadlift from "../assets/RR/hinges/single-legged-deadlift.gif";
-import bandedNordicCurl from "../assets/RR/hinges/banded-nordic-curl.gif";
-import nordicCurl from "../assets/RR/hinges/nordic-curl.gif";
+import romanianDeadlift from "../assets/RR/hinges/romanian-deadlift.webm";
+import singleLegDeadlift from "../assets/RR/hinges/single-legged-deadlift.webm";
+import bandedNordicCurl from "../assets/RR/hinges/banded-nordic-curl.webm";
+import nordicCurl from "../assets/RR/hinges/nordic-curl.webm";
 
 
 const hinges = [
@@ -14,7 +14,7 @@ const hinges = [
             <p>Stand up straight. Brace and squeeze your butt to flatten your low back (neutral spine to maybe slightly arched).</p>,
             <p>Send your butt back and lean your torso forward to avoid falling over</p>,
             <p>You can place the hands on your chest and abdomen for feedback or let them hang by your sides.</p>,
-            <p>Note: The GIF is "robotic" for demonstration purposed, your execution should be smooth.</p>,
+            <p>Note: The.webm is "robotic" for demonstration purposed, your execution should be smooth.</p>,
         ]
     },
     {

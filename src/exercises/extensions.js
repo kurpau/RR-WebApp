@@ -1,5 +1,5 @@
 import React from "react";
-import revHyperextension from "../assets/RR/extensions/reverse-hyperextension.gif"
+import revHyperextension from "../assets/RR/extensions/reverse-hyperextension.webm"
 
 
 const extensions = [
