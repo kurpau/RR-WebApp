@@ -116,7 +116,9 @@
     margin: 0.2rem;
 }
 
-
+#hints p {
+    margin: 0.4rem;
+}
 
 button {
     border-radius: 20px;
