@@ -21,7 +21,7 @@ const Instructions = (props) => {
             </ol>
             <h3>Instructions for the app</h3>
             <ol>
-                <li>To cycle progressions tap on either side of the picture</li>
+                <li>To cycle progressions tap on either side of the video</li>
                 <li>"Do 3x5-8" means do 3 sets of 5-8 reps</li>
             </ol>
             <div className="instrLayout">

@@ -14,7 +14,7 @@ const hinges = [
             <p>Stand up straight. Brace and squeeze your butt to flatten your low back (neutral spine to maybe slightly arched).</p>,
             <p>Send your butt back and lean your torso forward to avoid falling over</p>,
             <p>You can place the hands on your chest and abdomen for feedback or let them hang by your sides.</p>,
-            <p>Note: The.webm is "robotic" for demonstration purposed, your execution should be smooth.</p>,
+            <p>Note: The video is "robotic" for demonstration purposed, your execution should be smooth.</p>,
         ]
     },
     {

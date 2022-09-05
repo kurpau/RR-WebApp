@@ -31,7 +31,7 @@ const pullups = [
         alt: "Negative pullup",
         title: "Negative pullup",
         keypoints: [
-            <p>Jump to the top of the pull-up position, then slowly (as slowly as you can), lower yourself until your arms are straight. Build up to 10sec negatives!</p>,
+            <p>Jump to the top of the pull-up position, then slowly (as slowly as you can), lower yourself until your arms are straight. Build up to 10s negatives!</p>,
         ]
     },
     {
