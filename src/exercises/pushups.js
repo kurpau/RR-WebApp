@@ -28,10 +28,10 @@ const pushups = [
         title: "Full pushup",
         keypoints: [
             <p>Body in a straight line from head to toe: don't let the hips sag!</p>,
-            <p>Lock out arms and <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">protract the shoulderblades</a> at the top</p>,
+            <p>Lock out arms and <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning" target="_blank" rel="noopener noreferrer">protract the shoulderblades</a> at the top</p>,
             <p>Go down until chest nearly touches the ground</p>,
             <p>Keep the elbows in, don't let them flare out</p>,
-            <p>Don't shrug up your shoulders to your ears, focus on <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning">depressing the shoulderblades</a>.</p>,
+            <p>Don't shrug up your shoulders to your ears, focus on <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning" target="_blank" rel="noopener noreferrer">depressing the shoulderblades</a>.</p>,
         ]
     },
     {

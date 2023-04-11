@@ -22,7 +22,7 @@ const hinges = [
         alt: "Single legged deadlift",
         title: "Single legged deadlift",
         keypoints: [
-            <p>If you lack the balance to perform these with a leg in the air, you can use an arm to brace yourself against a surface or you can straddle your legs to help with balance. <a href="https://i.imgur.com/VUF6VLa.jpg">Example</a></p>,
+            <p>If you lack the balance to perform these with a leg in the air, you can use an arm to brace yourself against a surface or you can straddle your legs to help with balance. <a href="https://i.imgur.com/VUF6VLa.jpg" target="_blank" rel="noopener noreferrer">Example</a></p>,
                 ]
             },
     {

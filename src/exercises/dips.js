@@ -9,7 +9,7 @@ const dips = [
         alt: "Parallel bar support hold",
         title: "Parallel bar support hold",
         keypoints: [
-            <p>Press thhollowe shoulders down</p>,
+            <p>Press the shoulders down</p>,
             <p>Elbow pits face forward</p>,
             <p>Feet and thighs together</p>,
             <p>Work up to 3 sets of 1 minute holds for this progression</p>,
@@ -31,7 +31,7 @@ const dips = [
         title: "Regular dip",
         keypoints: [
             <p>Straight or slightly hollow body. No bending at the hips!</p>,
-            <p>Lock out the arms and depress the shoulderblades (what does that even mean?) at the top</p>,
+            <p>Lock out the arms and <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/positioning" target="_blank" rel="noopener noreferrer">depress the shoulderblades</a> at the top</p>,
             <p>Go as far down as you can</p>,
             <p>Elbows in</p>,
         ]

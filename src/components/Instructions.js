@@ -25,7 +25,7 @@ const Instructions = (props) => {
                 <li>When you see "Do 3x5-8," it means to complete 3 sets with 5 to 8 repetitions per set.</li>
             </ol>
             <div className="instrLayout">
-                <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/#wiki_welcome_to_the_recommended_routine">More info</a>
+                <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/#wiki_welcome_to_the_recommended_routine" target="_blank" rel="noopener noreferrer">More info</a>
                 <button onClick={props.onClose}>Back to work</button>
             </div>
         </Modal>

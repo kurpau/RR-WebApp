@@ -26,7 +26,7 @@ function App() {
       {instructionsAreShown && <Instructions onClose={hideInstructionsHandler} />}
       <Text>
         IMPORTANT! Always warm up before a workout. Go for a short run
-        or do a <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/#wiki_warm-up.3A_dynamic_stretches_.285-10min.29">warmup routine</a>
+        or do a <a href="https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/#wiki_warm-up.3A_dynamic_stretches_.285-10min.29" target="_blank" rel="noopener noreferrer">warmup routine</a>
       </Text>
       <Section title="First pair">
         <Slider slides={pullups} snr={"3x5-8"} />
