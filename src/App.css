@@ -52,6 +52,35 @@
     touch-action: manipulation;
 }
 
+.right-arrow-icon {
+  background-color: rgba(120, 120, 120, 0.5);
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  color: white;
+  font-size: 40px;
+  opacity: 0.6;
+  float: right;
+  justify-content: center;  
+  display: flex;           
+  align-items: center;       
+}
+
+
+.left-arrow-icon {
+  background-color: rgba(120, 120, 120, 0.5);
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  color: white;
+  font-size: 40px;
+  opacity: 0.6;
+  float: left;
+  justify-content: center;  
+  display: flex;           
+  align-items: center;       
+}
+
 .left-arrow {
     position: absolute;
     background-color: transparent;

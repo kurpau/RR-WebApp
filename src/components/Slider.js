@@ -31,8 +31,8 @@ const Slider = ({ slides, snr }) => {
                                             return <li key={idx}>{point}</li>
                                         })}
                                         title={slide.title}>
-                                <button onClick={prevSlideHandler} className="left-arrow"></button>
-                                <button onClick={nextSlideHandler} className="right-arrow"></button>
+                                <button onClick={prevSlideHandler} className="left-arrow"><span class='left-arrow-icon'>&#x3c;</span></button>
+                                <button onClick={nextSlideHandler} className="right-arrow"><span class='right-arrow-icon'>&#x3e;</span></button>
                             </Card>
                         }
                     </div>
